@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @LalaSabuhi
+- 👋 Hi, I’m Lala Sabuhi. 
