@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Lala Sabuhi. 
+- 👋 Hi, I’m Lala Sabuhi.
+- I'm java back-end developer.
